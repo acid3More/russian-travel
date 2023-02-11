@@ -1,0 +1,9 @@
+.cover{
+  background-image: url(../../images/cover/__background.jpg);
+  background-position: center center;
+  background-size: cover;
+  max-width: 1184px;
+  min-height: 740px;
+  margin: 0 auto;
+  margin-top: 92px;
+}

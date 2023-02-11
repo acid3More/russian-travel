@@ -1,0 +1,3 @@
+.cover__link_opacity:hover{
+  background-image:linear-gradient(rgb(42, 44, 47, 0.8), rgb(42, 44, 47, 0.8)), url(../../images/cover/__background.jpg);
+}

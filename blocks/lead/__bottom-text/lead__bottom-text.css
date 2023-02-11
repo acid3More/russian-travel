@@ -1,0 +1,12 @@
+.lead__bottom-text{
+  color: #ffffff;
+  font-weight: 200;
+  font-size: 10px;
+  line-height: 14px;
+  align-self: flex-start;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+  margin-top: 8px;
+}
