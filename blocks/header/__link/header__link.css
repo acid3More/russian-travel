@@ -7,3 +7,18 @@
   color: #ffffff;
   text-decoration: none;
 }
+
+@media screen and (max-width: 1279px) {
+
+}
+
+@media screen and (max-width: 1023px) {
+
+}
+
+@media screen and (max-width: 767px) {
+.header__link{
+  font-size: 18px;
+  line-height: 20px;
+}
+}

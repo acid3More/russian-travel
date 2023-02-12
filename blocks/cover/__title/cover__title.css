@@ -7,4 +7,26 @@ line-height: 76px;
 color: #ffffff;
 max-width: 560px;
 text-align: center;
+margin-bottom: 32px;
+}
+
+@media screen and (max-width: 1279px) {
+.cover__title{
+
+}
+}
+
+@media screen and (max-width: 1023px) {
+.cover__title{
+
+}
+}
+
+@media screen and (max-width: 767px) {
+.cover__title{
+  font-size: 32px;
+  line-height: 35px;
+  max-width: 250px;
+  margin-bottom: 16px;
+}
 }

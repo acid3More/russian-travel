@@ -7,3 +7,21 @@ margin: 0;
 padding: 0;
 max-width: 460px;
 }
+
+@media screen and (max-width: 1279px) {
+
+}
+
+@media screen and (max-width: 1023px) {
+.place__title{
+font-size: 42px;
+line-height: 46px;
+}
+}
+
+@media screen and (max-width: 767px) {
+.place__title{
+font-size: 32px;
+line-height: 35px;
+}
+}
