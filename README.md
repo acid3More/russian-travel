@@ -10,5 +10,5 @@ _____________
 
 ### Для использования проекта:
 Для ознакомления с проектом вы можете:
-1. Загрузить его из ![Репозитория](https://github.com/acid3More/russian-travel)
-2. Открыть проект напрямую по ссылке ![Путешествия по России](https://acid3more.github.io/russian-travel/)
+1. Загрузить его из [Репозитория](https://github.com/acid3More/russian-travel)
+2. Открыть проект напрямую по ссылке [Путешествия по России](https://acid3more.github.io/russian-travel/)
