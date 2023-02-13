@@ -15,11 +15,3 @@
   font-family: 'Inter';
   font-weight: 900;
 }
-
-@font-face{
-  src:
-  url(./Inter/Inter-ExtraLight.ttf) format("truetype"),
-  url(./Inter/Inter-ExtraLight.woff) format(".woff");
-  font-family: 'Inter';
-  font-weight: 200;
-}

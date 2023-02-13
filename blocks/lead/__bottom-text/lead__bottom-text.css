@@ -1,6 +1,6 @@
 .lead__bottom-text{
   color: #ffffff;
-  font-weight: 200;
+  font-weight: 400;
   font-size: 10px;
   line-height: 14px;
   align-self: flex-start;
@@ -9,4 +9,16 @@
   margin: 0;
   padding: 0;
   margin-top: 8px;
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__bottom-text{
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__bottom-text{
+    margin-left: 16px;
+  }
 }
