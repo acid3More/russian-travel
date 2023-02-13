@@ -7,7 +7,7 @@
 @media screen and (max-width: 1279px) {
 .places{
 max-width: 928px;
-}
+  }
 }
 
 @media screen and (max-width: 1023px) {
@@ -15,7 +15,7 @@ max-width: 928px;
 max-width: 720px;
 margin-top: 88px;
 margin-bottom: 90px;
-}
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -23,5 +23,5 @@ margin-bottom: 90px;
 max-width: 320px;
 margin-top: 64px;
 margin-bottom: 66px;
-}
+  }
 }

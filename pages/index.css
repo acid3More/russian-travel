@@ -19,6 +19,7 @@
 @import url(../blocks/footer/__list-links/footer__list-links.css);
 @import url(../blocks/footer/__list/footer__list.css);
 @import url(../blocks/footer/__link/_opacity/footer__link_opacity.css);
+@import url(../blocks/footer/__nav-list/footer__nav-list.css);
 /* Footer */
 
 
@@ -64,12 +65,3 @@
 /* places */
 
 @import url(..);
-
-
-.pixel-perfect{
-  position: absolute;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  opacity: 0.5;
-}
