@@ -1,5 +1,11 @@
 .header__lang{
-  margin-top: 46px;
   display: flex;
   gap: 18px;
+  padding-top: 18px;
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang{
+    padding-top: 14px;
+  }
 }
