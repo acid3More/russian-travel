@@ -1,0 +1,6 @@
+.footer__form{
+  display: flex;
+  flex-direction: row;
+  max-width: 360px;
+  position: relative;
+}

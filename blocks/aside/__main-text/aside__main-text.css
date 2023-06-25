@@ -1,6 +1,6 @@
-.cards{
+.aside__main-text{
   display: flex;
   flex-direction: column;
-  gap: 50px;
+  max-width: 460px;
   margin-top: 80px;
 }

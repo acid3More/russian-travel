@@ -1,0 +1,6 @@
+.blockqoute__text-content{
+  max-width: 470px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 120px;
+}

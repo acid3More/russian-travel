@@ -1,0 +1,13 @@
+.aside__image-block{
+  width: 440px;
+  height: 300px;
+  background-color: #f4f4f4;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 164px;
+  right: 370px;
+  position: absolute;
+  background-color: white
+}

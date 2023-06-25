@@ -1,0 +1,5 @@
+.slider-block__main-text{
+  display: flex;
+  flex-direction: column;
+  max-width: 460px;
+}

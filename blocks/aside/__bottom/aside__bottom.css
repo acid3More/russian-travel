@@ -1,0 +1,6 @@
+.aside__bottom{
+  display: flex;
+  flex-direction: row;
+  margin-top: 167px;
+  gap: 30px;
+}

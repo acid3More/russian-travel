@@ -1,0 +1,7 @@
+.training__links-list{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  margin-top: 182px;
+}

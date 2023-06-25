@@ -1,0 +1,8 @@
+.aside__cover{
+  width: 610px;
+  min-height: 836px;
+  background-image: url("../../../images/cover/forest.jpg");
+  background-size: cover;
+  margin-top: 20px;
+  position: relative;
+}

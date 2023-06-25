@@ -1,0 +1,7 @@
+.aside__image{
+  background-image: url("../../../images/cover/bike.png");
+  background-position: center;
+  background-size: cover;
+  width: 340px;
+  height: 260px;
+}
